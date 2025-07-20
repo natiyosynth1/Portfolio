@@ -14,10 +14,10 @@ export const HeroSection = () => {
               Hi, I&apos;m&nbsp;
             </span>
             <span className="text-primary opacity-0 animate-fade-in-delay-1">
-              Yared
+              Kena
             </span>
             <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
-              Belete
+              Tekalign
             </span>
           </h1>
 
